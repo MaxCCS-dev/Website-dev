@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+  h1  {
+color: rgb(248, 205, 62);background-color: rgb(255, 246, 221);
+    }
+ p {
+ color: rgb(247, 96, 96); background-color: rgb(255, 200, 200);     
+    }
+h2 {
+    color: blanchedalmond;background-color: rgb(145, 183, 255);
+}
+
+
+
+    </style>
+    
+</head>
+<body>
+    <h1 style="color: rgb(255, 209, 124);">HI guys!! today we are going to learn about around the worldwide!!!</h1>
+    <p style="color: rgb(238, 109, 109);">Here are 50 more mind-blowing food facts, grouped by category:Fruits & VegetablesPineapples take nearly three years to
+    grow and mature a single fruit.Cranberries bounce like rubber balls when they are ripe.Avocados are single-seeded
+    berries, not vegetables.Onions make you cry because they release a gas called syn-propanethial-S-oxide.Lemons contain
+    more sugar than strawberries, but their high citric acid content masks the sweetness.Watermelons are 92% water, putting
+    them on par with cucumbers.Potatoes were the first vegetable grown in space, aboard the Space Shuttle Columbia in
+    1995.Rhubarb grows so fast in the dark that you can actually hear it popping and snapping.Figs are pollinated by wasps,
+    which die inside the fruit and are dissolved by the fig’s enzymes.Almonds are seeds, not nuts; they belong to the same
+    family as peaches and cherries.</p>
+    <h2 style="color: blue;">thATS It for today see you next time !!!</h2>
