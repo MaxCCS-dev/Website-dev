@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <style>
+        .safari-slide {
+    
+            height: 200px;
+    
+            text-align: center;
+    
+            padding-top: 75px;
+    
+            font-size: 1.8rem;
+    
+            color: white;
+    
+        }
+    
+        .slide-forest {
+    
+            background: darkgreen;
+    
+        }
+    
+        .slide-ocean {
+    
+            background: steelblue;
+    
+        }
+    
+        .slide-desert {
+    
+            background: orange;
+    
+        }
+    </style>
+</head>
+<body>
+    <div id="SafariCarousel" class="carousel slide" data-ride="carousel">
+
+<div class="carousel-inner">
+<div class="carousel-item active safari-slide slide-forest">forest safari</div>
+
+<div class="carousel-item safari-slide slide-ocean">ocean safari</div>
+
+<div class="carousel-item safari-slide slide-desert" >desert safari</div>
+</div>
+<ol class="carousel-indicators">
+<li data-target="#SafariCarousel" data-slide-to="0" class="active"></li>
+<li data-target="#SafariCarousel" data-slide-to="1"></li>
+<li data-target="#SafariCarousel" data-slide-to="2"></li>
+
+</ol>
+
+
+    </div>
+</body>
+</html>
